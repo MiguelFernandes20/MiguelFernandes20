@@ -1,6 +1,9 @@
 # 💫 About Me:
-Olá ## Olá! Eu sou o Miguel Fernandes 🖐️<br><br>Estudante de graduação apaixonado por desenvolvimento de software com habilidades sólidas em Java e Programação Orientada a Objetos (POO). Ao longo da minha jornada acadêmica e experiências práticas, adquiri conhecimentos avançados em tecnologias, incluindo MySQL, Spring Boot e Metodologias Ágeis.
+Olá ## Olá! Eu sou o Miguel Fernandes 🖐️<br><br>
+Estudante de graduação apaixonado por desenvolvimento de software com habilidades sólidas em Java e Programação Orientada a Objetos (POO). Ao longo da minha jornada acadêmica e experiências práticas, adquiri conhecimentos avançados em tecnologias, incluindo MySQL, Spring Boot e Metodologias Ágeis.
+
 Além disso, meu conhecimento em banco relacional como o MySQL me permite criar e gerenciar bancos de dados, garantindo que os dados sejam armazenados e recuperados de maneira eficiente e segura. Como desenvolvedor de aplicativos web REST e RESTful, estou familiarizado com a criação de APIs que seguem as melhores práticas da indústria. 
+
 Minha experiência em Spring Boot complementa esse conhecimento, permitindo-me criar aplicativos web altamente funcionais e fáceis de manter. Minha exposição às Metodologias Ágeis, como Scrum e Kanban, demonstra minha capacidade de trabalhar em equipes colaborativas, realizar entregas iterativas e responder às mudanças de maneira eficaz .
 
 
