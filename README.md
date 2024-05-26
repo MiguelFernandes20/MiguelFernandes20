@@ -4,7 +4,7 @@
 Olá ## Olá! Eu sou o Miguel Fernandes 🖐️<br><br>
 Sou um profissional apaixonado por criar experiências de usuário, estou me especializado em design de interface, product design e user experience. Minha formação acadêmica em sistemas de informação me proporcionaram uma base sólida em tecnologia e desenvolvimento de software, trazendo um conjunto diversificado de habilidades que complementam meu foco em design centrado no usuário.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=UX%2FUI+Designer;Product+Designer;User+Experience+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Machine+Learning+%7C+Automation+%7C+UX+Research)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-fernandes-7151b614a/)
