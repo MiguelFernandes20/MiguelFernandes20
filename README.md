@@ -4,6 +4,8 @@
 Hello! I am Miguel Fernandes.🖐️<br><br>
 I am passionate about analyzing data and automating processes using Python, SQL, and Machine Learning. UX research enables me to create more efficient and user-centered solutions.
 
+🔭 Atualmente estou trabalhando com análise e visualização de dados
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Data+Analyst+%7C+Python+%7C+SQL+;Machine+Learning+%7C+Automation+;+UX+Research)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
